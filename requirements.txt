@@ -2,4 +2,3 @@ streamlit
 openai-whisper
 gtts
 requests
-streamlit-audiorecorder
