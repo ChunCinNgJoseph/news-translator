@@ -1,5 +1,4 @@
 import streamlit as st
-st.title("🚀 Hello from Streamlit!")
 from streamlit_audiorecorder import audiorecorder
 import whisper
 import tempfile
